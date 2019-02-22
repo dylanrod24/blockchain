@@ -1,5 +1,4 @@
 # Create a cryptocurrency
-# pip install requests==2.18.4
 
 # Importing the libraries
 import datetime

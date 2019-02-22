@@ -1,5 +1,3 @@
-# Module 1 - Create a blockchain
-
 # Importing the libraries
 import datetime
 import hashlib
